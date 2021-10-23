@@ -23,4 +23,4 @@ except:
     if best==-1:
         print("Chop off!!")
     else :
-        print(mm);print(best)
+        print(f'%.4f'%mm);print(best)

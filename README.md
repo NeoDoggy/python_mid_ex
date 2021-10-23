@@ -1,5 +1,13 @@
 ###### python mid exam
 # D. Production
+
+<object data="./d.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./d.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./d.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
 <center> 出題者 : ニオ </center>
 <center> Time : 4s </center>
 <center> Memory : 512MiB </center>
